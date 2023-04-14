@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.main-box {
+  margin: 0 auto;
+  height: 400px;
+  width: 600px;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 30px;
+  margin-top: 50px;
+}
+
+.name {
+  margin-top: 20px;
+  background-color: black;
+  width: 490px;
+  color: white;
+  padding: 10px 3px;
+}
+.gray
+{
+  color: gray!important;
+}
+
+.married {
+  background-color: black;
+  width: 500px;
+  color: white;
+  padding: 10px  3px;
+}
+
+.gender {
+  background-color: black;
+  width: 500px;
+  color: white;
+
+  padding: 10px  3px;
+}
+
+.role {
+  background-color: black;
+  width: 500px;
+  padding: 10px  3px;
+  color: white;
+}
+
+.btn {
+  width: 100px;
+  padding: 10px 0;
+  background-color: indigo;
+  color: white;
+  border: 0;
+  font-weight: 600;
+  margin-top: 20px;
+}
